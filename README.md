@@ -1,7 +1,8 @@
 # DotNetCore-CleanArchitecture
 
-This Application in Asp.Net Core WebAPI, is using the last .Net 7 (at this moment).
-In this project is using these tecnologies and tools:
+The Asp.Net Core WebAPI application currently employs the latest .Net 7 framework. 
+The project leverages the following technologies and tools:
+
 
 ## Tecnologies and tools 
 * Clean Architecture
