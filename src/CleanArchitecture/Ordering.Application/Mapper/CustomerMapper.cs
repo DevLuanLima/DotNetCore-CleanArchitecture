@@ -24,4 +24,4 @@ namespace Ordering.Application.Mapper
         public static IMapper Mapper => Lazy.Value;
     }
 }
-}
+

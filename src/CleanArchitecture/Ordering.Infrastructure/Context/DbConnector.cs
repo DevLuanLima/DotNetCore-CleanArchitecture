@@ -20,7 +20,7 @@ namespace Ordering.Infrastructure.Context
 
         public IDbConnection CreateConnection()
         {
-            string _connectionString = _configuration.GetConnectionString("DefaultConnection");
+            string? _connectionString = _configuration.GetConnectionString("DefaultConnection");
             return new SqliteConnection(_connectionString);
         }
     }
